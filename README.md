@@ -1,5 +1,5 @@
 <div align="center">
-  
+		<p>是笨蛋！</p>  
   <h2>✨ My GitHub Stats ✨</h2>
 
   <div align="center">
@@ -10,8 +10,6 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingtian152&layout=compact&hide_border=true&langs_count=6&theme=github_dark_dimmed" />
     </a>
   </div>
-
-  <h2></h2>
 
   <a href="https://count.getloli.com/get/@lingtian152">
     <img src="https://count.getloli.com/@az?name=az&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
